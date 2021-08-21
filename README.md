@@ -8,9 +8,9 @@ description: 'Welcome to The Docs For Jelly-Bot My Prefix Is: gg'
 
 All the bot links are below: 
 
-{% page-ref page="help/rules.md" %}
+{page-ref page="help/rules.md"}
 
-{% page-ref page="commands/all.md" %}
+{page-ref page="commands/all.md"}
 
 
 
